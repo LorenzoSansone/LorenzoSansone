@@ -10,7 +10,7 @@
 ---
 
 ### 🤖 About Me
-I am a passionate **AI Developer** dedicated to building and deploying intelligent systems. My work focuses on bridging the gap between theoretical research and practical, real-world applications. Whether it's fine-tuning LLMs, optimizing neural networks, or engineering robust data pipelines, I thrive on solving the "impossible" problems.
+I am a passionate **AI Developer** dedicated to building and deploying intelligent systems. My work focuses on bridging the gap between theoretical research and practical, real-world applications. Whether it's fine-tuning LLMs or Computer Vision models, optimizing neural networks or engineering robust data pipelines, I thrive on solving the "impossible" problems.
 
 ---
 
